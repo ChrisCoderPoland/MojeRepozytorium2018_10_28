@@ -3,4 +3,10 @@ rrrrr
 Nowy plik
 
 
+<<<<<<< HEAD
 Idziemy dalej ze zmianami tego pilku 
+=======
+Idziemy dalej ze zmianami tego pilku 
+
+gvhfgfgh
+>>>>>>> master
